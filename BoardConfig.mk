@@ -185,9 +185,3 @@ TW_HAS_DOWNLOAD_MODE := true
 
 # Statusbar icons flags
 TW_STATUS_ICONS_ALIGN := center
-TW_CUSTOM_CPU_POS := 580
-TW_CUSTOM_CLOCK_POS := 50
-TW_CUSTOM_BATTERY_POS := 800
-
-# Use LZ4 Ramdisk compression instead of GZIP
-BOARD_RAMDISK_USE_LZ4 := true
